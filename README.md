@@ -44,5 +44,5 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## Contact
 
-📧 Email: zainabalshargawi@gmail.com
-🐙 GitHub: [zainab321](https://github.com/zainab321)
+ Email: zainabalshargawi@gmail.com
+ GitHub: [zainab321](https://github.com/zainab321)
