@@ -30,6 +30,19 @@ A smart Chrome extension that helps students and young readers understand comple
 
 ---
 
+## How to Install & Test
+
+1- Clone or download the repository
+https://github.com/zainab321/SparkZone
+2- Load the extension in Chrome
+
+Go to chrome://extensions/
+Enable Developer mode
+Click Load unpacked → select the project folder
+3- Test it
+Open a long article and click the extension icon.
+Use Break it down
+
 ## Built With
 
 - HTML / CSS / JavaScript  
